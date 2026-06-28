@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Admin",
+        "email": "admin@demo.com",
+        "password": "$2y$12$XSd1n3C0fFA4BsALnzXgJeTNo3F1VoPquM1Es94Y9MJ3IQjE67tJ2",
+        "role": "admin"
+    },
+    {
+        "name": "faim",
+        "email": "faimmahmud25@gmail.com",
+        "password": "$2y$10$Q6rNNWCKoUxH/jSVGZDiSu3MNM7dxXhbhMoRjdnoaQLYv7YpFRX4m",
+        "role": "user"
+    },
+    {
+        "name": "Faim Mahmud",
+        "email": "faim@gmail.com",
+        "password": "$2y$10$Ipe6gbNmJQDy34rnAHB2uOaTj3tOOXc4A/wNNzcCNVImX/f.bSlgG",
+        "role": "user"
+    },
+    {
+        "name": "faim",
+        "email": "faim1@gmail.com",
+        "password": "$2y$10$TG7R8P0NtrbjLE5zrHonlu4KV6/mgYkKepOvZdQuZzntiOos1yuvq",
+        "role": "user"
+    },
+    {
+        "name": "asad",
+        "email": "asad@gmail.com",
+        "password": "$2y$10$yJwztFtQe.jYMszxPx.S3uKIrwJhQ1sCa0d/LJdtRpTTJu0gH9OjC",
+        "role": "user"
+    }
+]

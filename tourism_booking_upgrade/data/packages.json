@@ -1,0 +1,104 @@
+[
+    {
+        "id": "pkg-mald",
+        "title": "Maldives Horizon Escape",
+        "country": "Maldives",
+        "price": "$2,890",
+        "rating": "4.9",
+        "days": "6 Days",
+        "image": "https://picsum.photos/seed/pkg-maldives/1600/1000",
+        "description": "Private villas, quiet beaches, and a luxury experience shaped around calm.",
+        "details": [
+            "Private villa",
+            "Airport lounge",
+            "Sea excursions",
+            "Spa access"
+        ],
+        "category": "beach"
+    },
+    {
+        "id": "pkg-swiss",
+        "title": "Swiss Alpine Signature",
+        "country": "Switzerland",
+        "price": "$3,740",
+        "rating": "5.0",
+        "days": "8 Days",
+        "image": "https://picsum.photos/seed/pkg-switzerland/1600/1000",
+        "description": "A refined mountain journey with rail routes, lakeside stays, and scenic stops.",
+        "details": [
+            "Rail pass",
+            "Lake-view suites",
+            "Private guide",
+            "Fondue evenings"
+        ],
+        "category": "mountain"
+    },
+    {
+        "id": "pkg-dubai",
+        "title": "Dubai Future Luxe",
+        "country": "UAE",
+        "price": "$2,150",
+        "rating": "4.8",
+        "days": "5 Days",
+        "image": "https://picsum.photos/seed/pkg-dubai/1600/1000",
+        "description": "High-rise views, desert highlights, and an ultra-modern city mood.",
+        "details": [
+            "Sky lounge",
+            "Desert safari",
+            "VIP transfers",
+            "City tour"
+        ],
+        "category": "city"
+    },
+    {
+        "id": "pkg-bali",
+        "title": "Bali Calm Retreat",
+        "country": "Indonesia",
+        "price": "$1,980",
+        "rating": "4.9",
+        "days": "7 Days",
+        "image": "https://picsum.photos/seed/pkg-bali/1600/1000",
+        "description": "Beach serenity, wellness experiences, and a design-led resort stay.",
+        "details": [
+            "Spa ritual",
+            "Jungle suite",
+            "Private pool",
+            "Beach club"
+        ],
+        "category": "beach"
+    },
+    {
+        "id": "pkg-paris",
+        "title": "Paris Iconic Week",
+        "country": "France",
+        "price": "$2,430",
+        "rating": "4.7",
+        "days": "4 Days",
+        "image": "https://picsum.photos/seed/pkg-paris/1600/1000",
+        "description": "A polished European escape built around culture, cuisine, and elegant stays.",
+        "details": [
+            "City pass",
+            "Fine dining",
+            "Private driver",
+            "Boutique hotel"
+        ],
+        "category": "city"
+    },
+    {
+        "id": "pkg-iceland",
+        "title": "Iceland Aurora Journey",
+        "country": "Iceland",
+        "price": "$3,110",
+        "rating": "5.0",
+        "days": "6 Days",
+        "image": "https://picsum.photos/seed/pkg-iceland/1600/1000",
+        "description": "Frozen landscapes, warm lodges, and dramatic scenery built for storytelling.",
+        "details": [
+            "Northern lights",
+            "Hot springs",
+            "Lodges",
+            "Scenic drive"
+        ],
+        "category": "nature"
+    }
+]
